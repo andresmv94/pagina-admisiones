@@ -1,4 +1,4 @@
-# pagina-admisiones# NUEVA PAGINA Y CONTENIDO UNIVALLE
+# NUEVA PAGINA Y CONTENIDO ADMISIONES-UNIVALLE
 
 Este archivo es un manual para saber que modificaciones y nuevas funciones tiene la paginas de univalle
 
