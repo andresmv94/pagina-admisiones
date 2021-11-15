@@ -3,7 +3,7 @@
 			include('/home/servidor/apache/htdocs/html/new/uso_public/paraformularios.php');
 			define('HideOnBush', 'hide');
 			$Pagetitle = 'Universidad del Valle';
-			include_once '../includes/header.php';
+			include_once '../../uso_public/global/includes/header.php';
 
 			$ip = $_SERVER['REMOTE_ADDR'];
 
@@ -224,7 +224,7 @@
 
 				//echo inconvenientes(1,'00');
 			?>
-			
+
 			<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 			<script src="../chatbot/jquery.validate.min.js"></script>
 			<script src="../chatbot/principalChatbot.js"></script>
@@ -412,4 +412,4 @@
 
 		</script>
 
-<?php include_once '../includes/footer.php';
+<?php include_once '../../uso_public/global/includes/footer.php';
